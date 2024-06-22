@@ -1,3 +1,6 @@
+# Syed Faruque
+# Created on 5/1/2022
+
 import turtle
 from random import randint
 import time
